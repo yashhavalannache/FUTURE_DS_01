@@ -22,9 +22,6 @@ Task 1: E-commerce Sales Analysis — The goal was to analyze sales data from th
 - [Ecommerce Summary (DOCX)](./4_Report/Ecommerce_summary.docx)
 
 ## 🖼️ Visuals / Screenshots
-Dashboard overview
-Sales by category
-
 
 ## Tools Used
 - Excel (Data Cleaning & Preprocessing)
