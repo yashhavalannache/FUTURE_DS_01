@@ -8,7 +8,7 @@ Task 1: E-commerce Sales Analysis — The goal was to analyze sales data from th
 4. Summarized findings in a written report and presentation (`4_Report/`).
 
 ## 🔎 Key Insights (summary)
-- Top-performing categories: (highest sales & profit).  
+- Top-performing categories: [CategoryName] (highest sales & profit).  
 - Sales trend: Month-over-month increase in Q2 — recommend promotional focus in months X and Y.  
 - Top products: Product A, Product B — account for ~Z% of revenue.  
 - Regional insight: Region R shows high revenue but low profit margin — investigate discounting/costs.
