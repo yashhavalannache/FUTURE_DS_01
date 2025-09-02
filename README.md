@@ -30,7 +30,9 @@ Task 1: E-commerce Sales Analysis — The goal was to analyze sales data from th
 - Excel (Data Cleaning & Preprocessing)
 - Power BI (Dashboard & Visualizations)
 
-## Folder Structure
+## 📂 Folder Structure
+
+```text
 FUTURE_DS_01/
 ├─ 1_Data/
 │   ├─ Ecommerce_Clean.xlsx
@@ -38,9 +40,9 @@ FUTURE_DS_01/
 ├─ 2_PowerBI/
 │   └─ Ecommerce_Dashboard.pbix
 ├─ 3_Assets/
-│   └─ screenshots/ 
+│   └─ screenshots/
 ├─ 4_Report/
-│   └─ Executive_Summary.docx
+│   ├─ Executive_Summary.docx
 │   └─ Presentation.pptx
 └─ README.md
 
