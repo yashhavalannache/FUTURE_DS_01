@@ -47,6 +47,9 @@ FUTURE_DS_01/
 └─ README.md
 ```
 
+![E-commerce Analysis Dashboard](2.%20Images/dashboard.png)
+
+
 ## Key Insights
 - Furniture leads sales, West region leads profit
 - Negative total profit indicates losses in some categories
