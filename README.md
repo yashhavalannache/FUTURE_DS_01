@@ -47,7 +47,7 @@ FUTURE_DS_01/
 └─ README.md
 ```
 
-![E-commerce Analysis Dashboard](2.%20Images/dashboard.png)
+![E-commerce Analysis Dashboard](3.%20Assets/dashboard.png)
 
 
 ## Key Insights
