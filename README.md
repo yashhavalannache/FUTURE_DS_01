@@ -42,6 +42,7 @@ FUTURE_DS_01/
 │   ├─ Executive_Summary.docx
 │   └─ Presentation.pptx
 └─ README.md
+```
 
 ## Key Insights
 - Furniture leads sales, West region leads profit
@@ -52,3 +53,5 @@ FUTURE_DS_01/
 1. Focus on high-profit regions and best-selling products
 2. Investigate and optimize loss-making categories
 3. Expand successful products into underperforming cities
+
+<p align="center"> ✨ Maintained by <a href="https://github.com/yashhavalannache">Yash Havalannache</a> ✨ </p> 
