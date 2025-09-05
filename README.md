@@ -1,5 +1,5 @@
 # 📊 Task 1 – Business Sales Dashboard (E-Commerce Data) 
- 
+
 ## 📌 Overview
 This project delivers an interactive Business Sales Dashboard built in Power BI using the provided E-Commerce Sales Dataset.
 
@@ -25,8 +25,6 @@ Task 1: E-commerce Sales Analysis — The goal was to analyze sales data from th
 - [E-commerce Sales Report (PPTX)](./4_Report/E-commerce-Sales-Report.pptx)  
 - [Ecommerce Summary (PDF)](./4_Report/Ecommerce_summary.pdf)  
 - [Ecommerce Summary (DOCX)](./4_Report/Ecommerce_summary.docx)
-
-## 🖼️ Visuals / Screenshots
 
 ## Tools Used
 - Excel (Data Cleaning & Preprocessing)
